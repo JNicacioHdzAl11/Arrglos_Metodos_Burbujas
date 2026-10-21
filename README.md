@@ -27,4 +27,8 @@ anticipadamente. Esto optimiza su rendimiento a O(n) en casos donde los datos
 ya están ordenados.
 
 resultado de las pruebas
+
+
+
+
 <img width="308" height="111" alt="Captura de pantalla 2026-10-20 233035" src="https://github.com/user-attachments/assets/62edf895-be11-42af-b90d-3a6c2b215b62" />
