@@ -1,6 +1,6 @@
 Práctica: Algoritmos de Ordenamiento por Burbuja
-Nombre: Juan Nicacio Hernández ALvarado
-Grado y Grupo: 4to B
+Nombre: Juan Nicacio Hernández Alvarado
+Grado y Grupo: 4to "B"
 # Práctica: Comparativa de Ordenamiento por Burbuja en Java
 
 Descripción General
